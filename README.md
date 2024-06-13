@@ -1,1 +1,1 @@
-# Surface patterns for various materials.
+# Laser configurations and the resulting surface patterns for several materials
